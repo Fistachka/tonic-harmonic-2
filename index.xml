@@ -2,11 +2,11 @@
 <level>
   <owner>Fistachka</owner>
   <repo>tonic-harmonic-2</repo>
-  <version>v1.0.4</version>
+  <version>v1.0.5</version>
   <next number="1" owner="stolbitsa" repo="tonic"/>
   <readme>
-    <ru>4893424a51de1bfd659060b1e6c49ee537640fbf8cdf739f2f0afb1e99770806</ru>
-    <en>ba98431a6f8af387dddf169132d702123d0dfbfc0f34feacde4de244c302186e</en>
+    <ru>393dedbaf44cefc6bacf89f0d2d1e85c5e4054037b1b50c102b981f25630cd14</ru>
+    <en>840cdfb387044f23b191e46b0d565e705951ccc908e03489cf1d11f226a8fd73</en>
   </readme>
   <license>b1b99f5538d1fd3702219bff50c665196dfa42f6ee755c37fe41a6178d6bc6e5</license>
   <exercise number="1">
@@ -14,7 +14,7 @@
     <bpm>80</bpm>
     <lowestNote>1</lowestNote>
     <tonalities>1,2,3,4,5,6,7,8,9,10,11,12</tonalities>
-    <video name="1.mp4" size="261215" type="video/mp4">c72ac4c1aca807ac32c812403e940fed1f42517cafe064db755f125da6e9760f</video>
+    <video name="1u.mp4" size="726716" type="video/mp4" volume="0.6">851f708aa445c1d88714a7bef6d60f5f5602b84cdc7f25d84f2a1b2950ca9e7f</video>
     <notes>
       <note number="1" values="1" ticks="0" durationTicks="187" ppq="96" velocity="0.843"/>
       <note number="2" values="1" ticks="0" durationTicks="91" ppq="96" velocity="0.913"/>
@@ -25,7 +25,7 @@
     <bpm>80</bpm>
     <lowestNote>1</lowestNote>
     <tonalities>1,2,3,4,5,6,7,8,9,10,11,12</tonalities>
-    <video name="2.mp4" size="224747" type="video/mp4">9141055c50bbf162bed61a0fab1c1aca7cf8e70a7851d0601825b9d84b867d41</video>
+    <video name="2u.mp4" size="921971" type="video/mp4" volume="0.6">33de0d2dda1aa81e11d6d5aeb7f3537140b8cb9727a2c9b830ba0f771b8eac46</video>
     <notes>
       <note number="1" values="1,18" ticks="0" durationTicks="187" ppq="96" velocity="0.843"/>
       <note number="2" values="1,18" ticks="0" durationTicks="91" ppq="96" velocity="0.913"/>
@@ -36,7 +36,7 @@
     <bpm>80</bpm>
     <lowestNote>1</lowestNote>
     <tonalities>1,2,3,4,5,6,7,8,9,10,11,12</tonalities>
-    <video name="3.mp4" size="161514" type="video/mp4">8348b97501c5305868f24a88b98f23fc1523ccf87436f8c7bfb1c53a194beec3</video>
+    <video name="3u.mp4" size="1212685" type="video/mp4" volume="0.6">cdf715b693fcae70eae1a87c81f2e1bd7375586b4bbaca64f5b9def0d735ac71</video>
     <notes>
       <note number="1" values="18" ticks="0" durationTicks="187" ppq="96" velocity="0.843"/>
       <note number="2" values="18" ticks="0" durationTicks="91" ppq="96" velocity="0.913"/>
@@ -47,7 +47,7 @@
     <bpm>80</bpm>
     <lowestNote>1</lowestNote>
     <tonalities>1,2,3,4,5,6,7,8,9,10,11,12</tonalities>
-    <video name="4.mp4" size="298522" type="video/mp4">5b08ea61e7dc0fd2e2e5cf5743f450dc4cd6ae992145093bdcb3e442e70cd162</video>
+    <video name="4u.mp4" size="1746006" type="video/mp4" volume="0.6">bd7ea1b11d0aab5a9f0843f87da78b743bb10f6466b76750ccfe86e87a4f90fb</video>
     <notes>
       <note number="1" values="1,18" ticks="0" durationTicks="187" ppq="96" velocity="0.843"/>
       <note number="2" values="1,18" ticks="0" durationTicks="91" ppq="96" velocity="0.913"/>
@@ -58,7 +58,7 @@
     <bpm>80</bpm>
     <lowestNote>1</lowestNote>
     <tonalities>1,2,3,4,5,6,7,8,9,10,11,12</tonalities>
-    <video name="5.mp4" size="271540" type="video/mp4">714d3ecdb928e1564ac54b36aea6f60abe36b2368aa7ff433d5da9cb2c0e04ce</video>
+    <video name="5u.mp4" size="797715" type="video/mp4" volume="0.6">f67f40b9486bfd2108d07b3abc8fa7f311e64d45630bbbb50961edb74763d36a</video>
     <notes>
       <note number="1" values="18" ticks="0" durationTicks="187" ppq="96" velocity="0.843"/>
       <note number="2" values="18" ticks="0" durationTicks="91" ppq="96" velocity="0.913"/>
@@ -71,7 +71,7 @@
     <bpm>80</bpm>
     <lowestNote>1</lowestNote>
     <tonalities>1,2,3,4,5,6,7,8,9,10,11,12</tonalities>
-    <video name="6.mp4" size="293676" type="video/mp4">4f3e40ccba0772ef5056971a70572b5b36c38c3370cf903132c23cd90659991b</video>
+    <video name="6u.mp4" size="1234206" type="video/mp4" volume="0.6">135b2058dbec6d97ecc02cae2115af7d0222567f48aa029cf02642bc85c09e8a</video>
     <notes>
       <note number="1" values="1,18" ticks="0" durationTicks="187" ppq="96" velocity="0.843"/>
       <note number="2" values="1,18" ticks="0" durationTicks="91" ppq="96" velocity="0.913"/>
@@ -84,7 +84,7 @@
     <bpm>80</bpm>
     <lowestNote>1</lowestNote>
     <tonalities>1,2,3,4,5,6,7,8,9,10,11,12</tonalities>
-    <video name="7.mp4" size="350475" type="video/mp4">61f1845ed35570f0f01cdc82ec531751d14f043a3838b4b46984a2bc70513af5</video>
+    <video name="7u.mp4" size="719447" type="video/mp4" volume="0.6">0ea1fff42787f71793a4a52418f6013b4ad52c3a5b57066afe179f859d8ba00a</video>
     <notes>
       <note number="1" values="18" ticks="0" durationTicks="187" ppq="96" velocity="0.843"/>
       <note number="2" values="18" ticks="0" durationTicks="91" ppq="96" velocity="0.913"/>
@@ -97,7 +97,7 @@
     <bpm>80</bpm>
     <lowestNote>1</lowestNote>
     <tonalities>1,2,3,4,5,6,7,8,9,10,11,12</tonalities>
-    <video name="8.mp4" size="481972" type="video/mp4">13345f0dd4d432d15562b578b570679c2700c21fe5c76784c651559018356766</video>
+    <video name="8u.mp4" size="948544" type="video/mp4" volume="0.6">c756cb86764b6c222a9875b7f9f239a3b0f337fbf576c27c55f14da1431362e0</video>
     <notes>
       <note number="1" values="1,18" ticks="0" durationTicks="187" ppq="96" velocity="0.843"/>
       <note number="2" values="1,18" ticks="0" durationTicks="91" ppq="96" velocity="0.913"/>
@@ -110,7 +110,7 @@
     <bpm>80</bpm>
     <lowestNote>1</lowestNote>
     <tonalities>1,2,3,4,5,6,7,8,9,10,11,12</tonalities>
-    <video name="9.mp4" size="302669" type="video/mp4">ee496935b7c673d3f65dd145337092498d8ebcb89aa6da455b44181279837ef5</video>
+    <video name="9u.mp4" size="576307" type="video/mp4" volume="0.6">b59dd780d9d8f842d76ab08e5aa448ef9082593d289e4eb13c193ffcd77ff785</video>
     <notes>
       <note number="1" values="1,18" ticks="0" durationTicks="187" ppq="96" velocity="0.843"/>
       <note number="2" values="1,18" ticks="0" durationTicks="91" ppq="96" velocity="0.913"/>
@@ -123,7 +123,7 @@
     <bpm>80</bpm>
     <lowestNote>1</lowestNote>
     <tonalities>1,2,3,4,5,6,7,8,9,10,11,12</tonalities>
-    <video name="10.mp4" size="314360" type="video/mp4">214f7e39b9113da6f7eb8e3928a01fe82b89b09d578331dbaa632c2e4ef4377b</video>
+    <video name="10u.mp4" size="1127922" type="video/mp4" volume="0.6">ba959a2836d779e80403ab2b15f18575288ed7563b40c0d49c11daaf99b4dd18</video>
     <notes>
       <note number="1" values="1,18" ticks="0" durationTicks="187" ppq="96" velocity="0.843"/>
       <note number="2" values="1,18" ticks="0" durationTicks="91" ppq="96" velocity="0.913"/>
@@ -136,7 +136,7 @@
     <bpm>80</bpm>
     <lowestNote>1</lowestNote>
     <tonalities>1,2,3,4,5,6,7,8,9,10,11,12</tonalities>
-    <video name="11.mp4" size="284760" type="video/mp4">4341393397a92d4278a1bbd9b9e2bfabded37ba633eb4ca7782a547052b79fab</video>
+    <video name="11u.mp4" size="879220" type="video/mp4" volume="0.6">aa1b77324d8607598596a8b2e885260268800531f54c1ee9aa15cbfeb19adf50</video>
     <notes>
       <note number="1" values="18" ticks="0" durationTicks="187" ppq="96" velocity="0.843"/>
       <note number="2" values="18" ticks="0" durationTicks="91" ppq="96" velocity="0.913"/>
@@ -149,7 +149,7 @@
     <bpm>80</bpm>
     <lowestNote>1</lowestNote>
     <tonalities>1,2,3,4,5,6,7,8,9,10,11,12</tonalities>
-    <video name="12.mp4" size="339226" type="video/mp4">de8a383eafda51e6beefb73e5bdbee1e07090307a1d4b134d47ca623a9279437</video>
+    <video name="12u.mp4" size="697023" type="video/mp4" volume="0.6">be7a841447aa9739ce75ae7a18a8c96c67da432067517ee3fb1e5014f513ff26</video>
     <notes>
       <note number="1" values="1,18" ticks="0" durationTicks="187" ppq="96" velocity="0.843"/>
       <note number="2" values="1,18" ticks="0" durationTicks="91" ppq="96" velocity="0.913"/>
