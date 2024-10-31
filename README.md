@@ -1,4 +1,6 @@
 <span id="ru"><a href='#ru'>🇷🇺</a> &nbsp;&nbsp;&nbsp;<a href='#en'>🇺🇸</a> &nbsp;&nbsp;&nbsp;</span><br><br>
+<iframe width="315" height="560" src="https://www.youtube.com/embed/a9gyg43CnFo" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"allowfullscreen></iframe>
+
 ![pexels-wendyaffieplaas-1178610](https://github.com/user-attachments/assets/e29f6a12-87b2-41af-b461-96e190883bed)
 
 Простые интервалы
@@ -6,6 +8,8 @@
 Источник: https://www.music-theory.ru/index.php?option=com_content&view=article&id=22&Itemid=167&lang=ru
 <br><br>
 <span id="en"><a href='#ru'>🇷🇺</a> &nbsp;&nbsp;&nbsp;<a href='#en'>🇺🇸</a> &nbsp;&nbsp;&nbsp;</span><br><br>
+<iframe width="315" height="560" src="https://www.youtube.com/embed/djWRJvvS2QU" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"allowfullscreen></iframe>
+
 ![pexels-wendyaffieplaas-1178610](https://github.com/user-attachments/assets/e29f6a12-87b2-41af-b461-96e190883bed)
 
 
