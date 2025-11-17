@@ -7,6 +7,11 @@
 Простые интервалы
 Интервалы, которые образуются в пределах одной октавы, называются простыми (за исключением особенного интервала «тритон», который, несмотря ни на что, тоже образуется в пределах одной октавы, но его не причисляют к простым). Таких интервалов 8, каждый имеет своё название. Кстати, названия интервалов — это порядковые числительные на латинском языке.
 Источник: https://www.music-theory.ru/index.php?option=com_content&view=article&id=22&Itemid=167&lang=ru
+
+Предыдущий урок:
+![pexels-mccutcheon-1148998](https://github.com/Fistachka/tonic-harmonic-1/assets/154689291/9447a8b1-dbab-4c7f-952a-06aecf01d528 =200x200)
+stolbitsa.com/fistachka/tonic-harmonic-1
+
 <br><br>
 
 <span id="en"><a href='#ru'>🇷🇺</a> &nbsp;&nbsp;&nbsp;<a href='#en'>🇺🇸</a> &nbsp;&nbsp;&nbsp;</span><br><br>
@@ -18,5 +23,10 @@
 
 Simple Intervals
 Intervals that are formed within one octave are called simple (with the exception of the special interval “tritone”, which, in spite of everything, is also formed within one octave, but is not considered simple). There are 8 such intervals, each with its own name. By the way, the names of intervals are ordinal numbers in Latin.
-Source: https://www.music-theory.ru/index.php?option=com_content&view=article&id=22&Itemid=167&lang=ru<br><br>
+Source: https://www.music-theory.ru/index.php?option=com_content&view=article&id=22&Itemid=167&lang=ru
+
+Previous lesson:
+![pexels-mccutcheon-1148998](https://github.com/Fistachka/tonic-harmonic-1/assets/154689291/9447a8b1-dbab-4c7f-952a-06aecf01d528 =200x200)
+stolbitsa.com/fistachka/tonic-harmonic-1
+<br><br>
 
